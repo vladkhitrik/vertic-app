@@ -7,4 +7,4 @@ Salesforce Vertic Application with Tabs which allows users easily login on the V
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
 
-<a href="https://login.salesforce.com/packaging/installPackage.apexp?p0=04t28000000lPjr">Unmanaged package</a>
+<a href="https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1a000000RJz4">Unmanaged package</a>
