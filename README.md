@@ -1,6 +1,9 @@
 # vertic-app
 Salesforce Vertic Application with Tabs which allows users easily login on the Vertic Support Portal.
 
+<h2>Dependencies</h2>
+Must create "Vertic Portal Token" text field on User object before deploying this application.
+
 <h2>Installation</h2>
 <a href="https://githubsfdeploy.herokuapp.com">
   <img alt="Deploy to Salesforce"
