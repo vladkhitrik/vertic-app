@@ -1,6 +1,6 @@
 <apex:page sidebar="false" showHeader="false">
 
     <script>
-        window.top.location.href = 'http://verticapps.force.com/login?token={!$User.Vertic_Portal_Token__c}';
+        window.top.location.href = 'https://verticapps.secure.force.com/login?token={!$User.Vertic_Portal_Token__c}';
     </script>
 </apex:page>
